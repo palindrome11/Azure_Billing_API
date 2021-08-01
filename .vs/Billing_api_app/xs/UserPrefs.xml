@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{52363619-23BC-439C-AB99-3A5C9027A65D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Billing_api_app/Billing_api_app.csproj">
+    <Files>
+      <File FileName="Billing_api_app/Program.cs" Line="16" Column="3" />
+      <File FileName="Billing_api_app/Billing_api_app.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Billing_api_app" expanded="True">
+            <Node name="Billing_api_app" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Billing__api__app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

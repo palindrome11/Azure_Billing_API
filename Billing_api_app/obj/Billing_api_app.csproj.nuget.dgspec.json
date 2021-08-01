@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/Billing_api_app.csproj": {}
+  },
+  "projects": {
+    "/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/Billing_api_app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/Billing_api_app.csproj",
+        "projectName": "Billing_api_app",
+        "projectPath": "/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/Billing_api_app.csproj",
+        "packagesPath": "/Users/cconlon/.nuget/packages/",
+        "outputPath": "/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cconlon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CodeHollow.AzureBillingApi": {
+              "target": "Package",
+              "version": "[1.1.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

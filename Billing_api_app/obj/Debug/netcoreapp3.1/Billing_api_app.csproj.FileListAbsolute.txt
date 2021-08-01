@@ -1,0 +1,17 @@
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Billing_api_app.deps.json
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Billing_api_app.runtimeconfig.json
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Billing_api_app.runtimeconfig.dev.json
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Billing_api_app.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Billing_api_app.pdb
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/AzureBillingApi.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.csproj.AssemblyReference.cache
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.AssemblyInfoInputs.cache
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.AssemblyInfo.cs
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.csproj.CoreCompileInputs.cache
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.csproj.CopyComplete
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.dll
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.pdb
+/Users/cconlon/Documents/@dev/Azure/billing_api_app/Billing_api_app/Billing_api_app/obj/Debug/netcoreapp3.1/Billing_api_app.genruntimeconfig.cache
